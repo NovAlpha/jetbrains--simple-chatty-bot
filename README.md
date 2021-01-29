@@ -1,5 +1,5 @@
 # jetbrains--simple-chatty-bot
-Final code for a project titled Simple Chatty Bot on Hyperskill/JetBrains Academy
+(Not so) final code for a project titled Simple Chatty Bot on Hyperskill/JetBrains Academy but hey at least I passed :D
 
 This program is a simple Python program doing several things:
 1. Returns your name
